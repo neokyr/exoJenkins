@@ -1,0 +1,3 @@
+/home/pad/cursus-cpp/paul-antoine/bsq/cmake-build-debug/CMakeFiles/bsq.dir
+/home/pad/cursus-cpp/paul-antoine/bsq/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pad/cursus-cpp/paul-antoine/bsq/cmake-build-debug/CMakeFiles/rebuild_cache.dir
